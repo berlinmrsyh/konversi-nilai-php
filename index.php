@@ -40,7 +40,7 @@ $nh = $nilai->konversiNH($na);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Konversi Nilai UNESA</title>
+    <title>Konversi Nilai Mahasiswa UNESA</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqx61gVWgIGe33WN0YYsS537G0OnOOFYP6U679F0u3Y/ukypX+W+mD6y" crossorigin="anonymous">
 </head>
 
